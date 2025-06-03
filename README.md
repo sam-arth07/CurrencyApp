@@ -42,8 +42,11 @@ _A beautiful, modern currency exchange app built with Kotlin Multiplatform and C
 ---
 
 ## 📱 Screenshots
-
-_Add your app screenshots here to showcase the beautiful UI and features_
+<img src="https://github.com/user-attachments/assets/bc1daa6d-35d2-4746-a211-fa5200e8fb47" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/d563b460-273b-4458-8267-f68af3f50995" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/fb457f98-3951-4784-910d-8c87c61c9706" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/42057c62-4cdd-4f61-bd70-291047eecc92" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/1d89284e-1412-45b7-b197-d5fb1bba8d7f" width="190" height="400">
 
 ---
 
